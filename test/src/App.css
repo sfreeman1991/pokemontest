@@ -1,0 +1,43 @@
+body {
+  width:100%;
+background: #EEE;
+display: inline-block;
+text-align:center;
+}
+.App{
+  display: inline-block;
+  width:662px;
+  margin:0 auto;
+}
+.holder{
+  background:white;
+  display: inline-block;
+  margin:10px;
+  width:200px;
+  height:200px;
+  text-align: center;
+}
+.header{
+  background:#044b04;
+  padding:5px;
+  color:#CCC;
+  height:20px
+}
+.img{
+  width:150px;
+}
+
+.next, .prev{
+  background:#044b04;
+  border:1px solid #CCC;
+  color:#CCC;
+  padding:5px 10px;
+}
+
+.prev{
+float:left;
+}
+.next{
+  float:right;
+}
+
